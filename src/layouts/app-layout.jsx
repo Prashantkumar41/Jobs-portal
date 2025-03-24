@@ -95,7 +95,7 @@ const AppLayout = () => {
               variant="ghost"
               size="icon"
               className="text-white hover:bg-white/20"
-              onClick={() => window.open("https://www.linkedin.com/in/prashantcoder", "_blank")}
+              onClick={() => window.open("https://www.linkedin.com/in/prashant-kumar-sw", "_blank")}
             >
               <Linkedin size={24} />
             </Button>
@@ -103,7 +103,7 @@ const AppLayout = () => {
               variant="ghost"
               size="icon"
               className="text-white hover:bg-white/20"
-              onClick={() => window.open("https://github.com/prashantcoder", "_blank")}
+              onClick={() => window.open("https://github.com/Prashantkumar41/Jobs-portal", "_blank")}
             >
               <Github size={24} />
             </Button>
